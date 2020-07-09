@@ -1,5 +1,7 @@
 # Hi there 👋
 
+<img src="https://avatars2.githubusercontent.com/u/44228082?s=200&v=4" align="right" height="150">
+
 🎉 Welcome to my GitHub profile!
 
 I'm limingxinleo - a PHP developer, and Open source contributor.
