@@ -2,7 +2,7 @@
 
 🎉 Welcome to my GitHub profile!
 
-I'm limingxin - a PHP developer, and Open source contributor.
+I'm limingxinleo - a PHP developer, and Open source contributor.
 
 I'm working for [Hyperf](https://github.com/hyperf).
 
