@@ -27,10 +27,10 @@ Hyperf is the best framework for me.
   
 ## 🏆 Github Profile Trophy
 
-<img align="left" width="100%" src="https://github-profile-trophy.vercel.app/?username=limingxinleo&theme=flat&column=8">
+![](https://github-profile-trophy.vercel.app/?username=limingxinleo&theme=flat&column=8)
 
 ## Most Used Languages
-  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limingxinleo&layout=compact&show_icons=true&theme=flat&hide_title=true">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=limingxinleo&layout=compact&show_icons=true&theme=flat&hide_title=true)
 
 </details>
