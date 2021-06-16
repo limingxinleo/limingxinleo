@@ -24,5 +24,13 @@ Hyperf is the best framework for me.
 - [Swow Skeleton](https://github.com/hyperf/swow-skeleton) - 🚀 A business web api skeleton fow swow.
 
 [Get More ...](https://github.com/limingxinleo)
+  
+## 🏆 Github Profile Trophy
+
+<img align="left" width="100%" src="https://github-profile-trophy.vercel.app/?username=limingxinleo&theme=flat&column=8">
+
+## Most Used Languages
+  
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limingxinleo&layout=compact&show_icons=true&theme=flat&hide_title=true">
 
 </details>
