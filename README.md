@@ -6,7 +6,7 @@
 
 I'm limingxinleo - a PHP developer, and Open source contributor.
 
-I'm author for [Hyperf](https://github.com/hyperf).
+I'm author of [Hyperf](https://github.com/hyperf).
 
 <!--
 Hyperf is the best framework for me.
